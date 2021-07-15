@@ -58,11 +58,11 @@ var respecConfig =
   //-- NB: in de werkversie uitzetten, want dan pakt Respec de pushdate ---------------
   //publishDate: "2019-10-08",  	    // Format is "YYYY-MM-DD"
   //-- Repositorynaam op GitHub -------------------------------------------------------
-  github: "https://github.com/geonovum/<naam van de repository>",
+  github: "https://github.com/Geonovum/IMOW-Werkomgeving",
   //-- Repositorynaam/issues op GitHub ------------------------------------------------
-  issueBase: "https://github.com/geonovum/<naam van de repository>/issues",
+  issueBase: "https://github.com/geonovum/IMOW-Werkomgeving/issues",
   //-- edDraftURI: de URI van de werkversie van het document
-  edDraftURI: "https://github/geonovum/<naam van de repository>",
+  edDraftURI: "https://geonovum.github.io/Geonovum/IMOW-Werkomgeving/CIMOW",
   //-- de namen van de Editor(s) ------------------------------------------------------
   //-- vul in: per Editor: name:, company:, companyURL: -------------------------------
   editors: 
@@ -94,9 +94,9 @@ var respecConfig =
     }, 
   ],
   //-- shortName is verplicht! (komt in de URL: kies logische naam) --------------------
-  shortName: "et",  	              // Wordt gebruikt in de document URL
+  shortName: "CIMOW",  	              // Wordt gebruikt in de document URL
   //-- pubDomain is verplicht! (komt in de URL: Activeer 1 van de volgende) ------------
-  pubDomain: "et", 	              // Energie transitie
+  pubDomain: "ro", 	              // Energie transitie
   //pubDomain: "mim", 	            // Metamodel Informatie Modellering
   //pubDomain: "bor", 	            // Beheer Openbare Ruimte
   //pubDomain: "bro", 	            // Basisregistratie Ondergrond
